@@ -4,7 +4,7 @@
 
 ## Project description
 
-This project presents a remote observation robot that was designed and built from scratch. This robot allows the user to conduct remote observations in hard-to-reach places, which is particularly useful in applications such as exploration of uninhabited areas, industrial inspections or environmental monitoring.
+This project presents a remote observation robot that was designed and built by me from scratch in 2018. This robot allows the user to conduct remote observations in hard-to-reach places, which is particularly useful in applications such as exploration of uninhabited areas, industrial inspections or environmental monitoring.
 
 ## Functions
 
